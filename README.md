@@ -6,11 +6,20 @@
 I'm a **Computing and Software Systems student at the University of Melbourne** with a passion for **software engineering, cybersecurity, and robotics**. My experience spans **front-end development, AI-driven applications, and embedded systems**, with a strong foundation in **C/C++, Python, JavaScript, and cybersecurity principles...**. I'm eager to apply my skills to tackle real-world challenges and create innovative solutions.
 
 ##
-### 📫 Let's Connect!
-- **GitHub:** [github.com/CNZSilverPriest](https://github.com/CNZSilverPriest)
-- **LinkedIn:** [linkedin.com/in/lillianpangyuan](https://au.linkedin.com/in/lillian-pang-yuan-80763b23a)
-- **Email:** lpy0110pyyy@gmail.com
-##
+
+<div style="display: flex; align-items: left; justify-content: space-between;">
+  <div>
+    <img align="right" src="https://github.com/CNZSilverPriest/CNZSilverPriest/blob/664416c2ae144891b318e94747bdabaeede03253/lillian.png" width="153" style="margin-left: 20px; border-radius: 10px;">
+    <h3>📫 Let's Connect!</h3>
+    <ul>
+      <li><strong>GitHub:</strong> <a href="https://github.com/CNZSilverPriest">github.com/CNZSilverPriest</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/lillianpangyuan">linkedin.com/in/lillianpangyuan</a></li>
+      <li><strong>Email:</strong> <a href="mailto:lpy0110pyyy@gmail.com">lpy0110pyyy@gmail.com</a></li>
+    </ul>
+  </div>
+</div>
+
+## 
 
 ### 📌 Experience & Projects
 
