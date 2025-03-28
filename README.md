@@ -21,21 +21,6 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 
 ## 
 
-### 📌 Experience & Projects
-
-### 🔹 **VEX Robotics National Championship - Team Captain, Programmer, Controller and Builder**
-- Designed and implemented **PID control algorithms** in C++ for autonomous robot navigation.
-- Led a team in optimizing **motor movements, trajectory planning, and real-time debugging**.
-- Collaborated with mechanical engineers to enhance hardware-software integration.
-- Achieved **Tournament Champion** at Australia and China's National competitions, **Tournament Finalist** at New Zealand's National Championship.
-
-### 🔹 **Front-End Development & AI Chatbot (IT Project COMP30022 at the University of Melbourne)**
-- Built a responsive and intuitive UI using **Next.js, TypeScript, and Tailwind CSS**.
-- Designed a chatbot interface where the **first message box represents user queries** and the **second represents AI responses**.
-- Led **Firebase deployment** and implemented **state management with Context API**.
-- Implemented **secure authentication mechanisms** with Firebase.
-- Deployed the front-end to a production environment.
-## 
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
@@ -56,7 +41,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
   <img width="12" />
 </div>
   
-<h3 align="left">Other Relevant Tools</h3>
+<h3 align="left">Other Relevant Tool</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -88,6 +73,24 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 </div>
 
 ##
+
+### 📌 Experience & Projects
+
+### 🔹 **VEX Robotics National Championship - Team Captain, Programmer, Controller and Builder**
+- Designed and implemented **PID control algorithms** in C++ for autonomous robot navigation.
+- Led a team in optimizing **motor movements, trajectory planning, and real-time debugging**.
+- Collaborated with mechanical engineers to enhance hardware-software integration.
+- Achieved **Tournament Champion** at Australia and China's National competitions, **Tournament Finalist** at New Zealand's National Championship.
+
+### 🔹 **Front-End Development & AI Chatbot (IT Project COMP30022 at the University of Melbourne)**
+- Built a responsive and intuitive UI using **Next.js, TypeScript, and Tailwind CSS**.
+- Designed a chatbot interface where the **first message box represents user queries** and the **second represents AI responses**.
+- Led **Firebase deployment** and implemented **state management with Context API**.
+- Implemented **secure authentication mechanisms** with Firebase.
+- Deployed the front-end to a production environment.
+  
+##
+
 - 🌟 *Passionate about problem-solving, innovation, collaboration, communication, front-end development and cybersecurity!*
 - 🌱 I’m currently learning **Unity, Solid Works and Live2D**
 ##
