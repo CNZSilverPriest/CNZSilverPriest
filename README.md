@@ -1,23 +1,35 @@
 <h1 align="center">Hi 👋, I'm Lillian Pang Yuan ૮꒰˵• ﻌ •˵꒱ა</h1>
-<h3 align="center">A passionate Software Developer from New Zealand</h3> 
-
+<h3 align="center">☁︎ ⋆A passionate Software Developer from New Zealand ♡</h3> 
 
 ### 🚀 About Me 
 
-I'm a **Computer Science student at the University of Melbourne** with a passion for **cybersecurity, software engineering, and robotics**. My experience spans **front-end development, AI-driven applications, and embedded systems**, with a strong foundation in **C++, Python, JavaScript, and cybersecurity principles**. I'm eager to apply my skills to tackle real-world challenges and create innovative solutions.
-
-##
-- 🌱 I’m currently learning **Unity, Solid Works and Live2D**
-
+I'm a **Computing and Software Systems student at the University of Melbourne** with a passion for **software engineering, cybersecurity, and robotics**. My experience spans **front-end development, AI-driven applications, and embedded systems**, with a strong foundation in **C/C++, Python, JavaScript, and cybersecurity principles...**. I'm eager to apply my skills to tackle real-world challenges and create innovative solutions.
 
 ##
 ### 📫 Let's Connect!
 - **GitHub:** [github.com/CNZSilverPriest](https://github.com/CNZSilverPriest)
 - **LinkedIn:** [linkedin.com/in/lillianpangyuan](https://au.linkedin.com/in/lillian-pang-yuan-80763b23a)
-- **Email:** your.email@example.com
-  
+- **Email:** lpy0110pyyy@gmail.com
 ##
-<h3 align="left">Skills</h3>
+
+### 📌 Experience & Projects
+
+### 🔹 **VEX Robotics National Championship - Team Captain, Programmer, Controller and Builder**
+- Designed and implemented **PID control algorithms** in C++ for autonomous robot navigation.
+- Led a team in optimizing **motor movements, trajectory planning, and real-time debugging**.
+- Collaborated with mechanical engineers to enhance hardware-software integration.
+- Achieved **Tournament Champion** at Australia and China's National competitions, **Tournament Finalist** at New Zealand's National Championship.
+
+### 🔹 **Front-End Development & AI Chatbot (IT Project COMP30022 at the University of Melbourne)**
+- Built a responsive and intuitive UI using **Next.js, TypeScript, and Tailwind CSS**.
+- Designed a chatbot interface where the **first message box represents user queries** and the **second represents AI responses**.
+- Led **Firebase deployment** and implemented **state management with Context API**.
+- Implemented **secure authentication mechanisms** with Firebase.
+- Deployed the front-end to a production environment.
+- Implemented **secure authentication mechanisms** with Firebase
+## 
+
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
@@ -36,7 +48,7 @@ I'm a **Computer Science student at the University of Melbourne** with a passion
   <img width="12" />
 </div>
   
-<h3 align="left">Relevant Tools</h3>
+<h3 align="left">Other Relevant Tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -68,8 +80,14 @@ I'm a **Computer Science student at the University of Melbourne** with a passion
 </div>
 
 ##
-🌟 *Passionate about problem-solving, innovation, and cybersecurity!*
+- 🌟 *Passionate about problem-solving, innovation, collebration, communication, front-end development and cybersecurity!*
+- 🌱 I’m currently learning **Unity, Solid Works and Live2D**
 ##
+
+### 💡 Other interest:
+- 🎨 3D Modeling, Procreate & UI/UX Design – Merging creativity with technology.
+- 🎮 Game Development – Interested in procedural generation and interactive storytelling.
+- 🎵 Music & Technology – Exploring how AI can be used for music generation and emotion-driven design.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CNZSilverPriest/CNZSilverPriest/output/github-snake-dark.svg" />
