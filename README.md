@@ -35,7 +35,6 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 - Led **Firebase deployment** and implemented **state management with Context API**.
 - Implemented **secure authentication mechanisms** with Firebase.
 - Deployed the front-end to a production environment.
-- Implemented **secure authentication mechanisms** with Firebase
 ## 
 
 <h3 align="left">🛠️ Tech Stack</h3>
