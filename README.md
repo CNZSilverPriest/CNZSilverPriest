@@ -9,7 +9,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 
 <div style="display: flex; align-items: left; justify-content: space-between;">
   <div>
-    <img align="right" src="https://github.com/CNZSilverPriest/CNZSilverPriest/blob/664416c2ae144891b318e94747bdabaeede03253/lillian.png" width="133" style="margin-left: 20px; border-radius: 10px;">
+    <img align="right" src="https://github.com/CNZSilverPriest/CNZSilverPriest/blob/664416c2ae144891b318e94747bdabaeede03253/lillian.png" width="143" style="margin-left: 20px; border-radius: 10px;">
     <h3>📫 Let's Connect!</h3>
     <ul>
       <li><strong>GitHub:</strong> <a href="https://github.com/CNZSilverPriest">github.com/CNZSilverPriest</a></li>
