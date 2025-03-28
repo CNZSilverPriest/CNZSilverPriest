@@ -88,7 +88,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 </div>
 
 ##
-- 🌟 *Passionate about problem-solving, innovation, collebration, communication, front-end development and cybersecurity!*
+- 🌟 *Passionate about problem-solving, innovation, collaboration, communication, front-end development and cybersecurity!*
 - 🌱 I’m currently learning **Unity, Solid Works and Live2D**
 ##
 
