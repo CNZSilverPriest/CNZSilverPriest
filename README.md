@@ -13,7 +13,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
     <h3>📫 Let's Connect!</h3>
     <ul>
       <li><strong>GitHub:</strong> <a href="https://github.com/CNZSilverPriest">github.com/CNZSilverPriest</a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/lillianpangyuan">linkedin.com/in/lillianpangyuan</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lillian-pang-yuan-80763b23a">linkedin.com/in/lillian-pang-yuan</a></li>
       <li><strong>Email:</strong> <a href="mailto:lpy0110pyyy@gmail.com">lpy0110pyyy@gmail.com</a></li>
     </ul>
   </div>
