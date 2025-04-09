@@ -23,7 +23,6 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 
 
 <h3 align="left">🛠️ Tech Stack</h3>
-
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
