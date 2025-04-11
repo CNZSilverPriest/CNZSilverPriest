@@ -38,6 +38,11 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+</div>
+
+###
 </div>
   
 <h3 align="left">Other Relevant Tool</h3>
