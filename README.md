@@ -91,6 +91,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 - Led **Firebase deployment** and implemented **state management with Context API**.
 - Implemented **secure authentication mechanisms** with Firebase.
 - Deployed the front-end to a production environment.
+- Worked in an Agile environment with collaboration tools such as Jira and Confluence.
   
 ##
 
