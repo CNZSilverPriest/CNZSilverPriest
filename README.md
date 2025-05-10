@@ -16,7 +16,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
       <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lillian-pang-yuan-80763b23a">linkedin.com/in/lillian-pang-yuan</a></li>
       <li><strong>Email:</strong> <a href="mailto:lpy0110pyyy@gmail.com">lpy0110pyyy@gmail.com</a></li>
     </ul>
-  </div>
+  </div> 
 </div>
 
 ## 
