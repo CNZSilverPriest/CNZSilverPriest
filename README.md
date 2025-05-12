@@ -19,7 +19,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
   </div> 
 </div>
 
-## 
+##
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <div align="left">
