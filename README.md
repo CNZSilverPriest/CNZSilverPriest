@@ -96,7 +96,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 ##
 
 - 🌟 *Passionate about problem-solving, innovation, collaboration, communication, front-end development and cybersecurity!*
-- 🌱 I’m currently self learning **Unity, Solid Works and Live2D**.
+- 🌱 I’m currently self learning **Unity, Solid Works and Live2D** and obtaining the **Oracle University MySQL 8.0 for Database Administrators Certificate**.
 ##
 
 ### 💡 Other interest:
