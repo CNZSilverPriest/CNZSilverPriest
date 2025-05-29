@@ -102,7 +102,7 @@ I'm a **Computing and Software Systems student at the University of Melbourne** 
 ### 💡 Other interest:
 - 🎨 3D Modeling, Procreate & UI/UX Design – Merging creativity with technology.
 - 🎮 Game Development – Interested in procedural generation and interactive storytelling.
-- 🎵 Music & Technology – Exploring how AI can be used for music generation and emotion-driven design.
+- 🎵 Music & Technology – Experienced in Piano (ABRSM Level 8), drums, guitar and bamboo flute... & Exploring how AI can be used for music generation and emotion-driven design.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CNZSilverPriest/CNZSilverPriest/output/github-snake-dark.svg" />
