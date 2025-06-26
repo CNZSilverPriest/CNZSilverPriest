@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Lillian Pang Yuan ૮꒰˵• ﻌ •˵꒱ა</h1>  
-<h3 align="center">☁︎ ⋆A passionate Software Developer from New Zealand ♡</h3 
+<h3 align="center">☁︎ ⋆A passionate Software Developer from New Zealand ♡</h3  
 
 ### 🚀 About Me
  
