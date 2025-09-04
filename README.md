@@ -6,7 +6,7 @@
 I'm a **Computing and Software Systems student at the University of Melbourne** with a passion for **software engineering, cybersecurity, and robotics**. My experience spans **front-end development, AI-driven applications, and embedded systems**, with a strong foundation in **C/C++, Python, JavaScript, and cybersecurity principles...**. I'm eager to apply my skills to tackle real-world challenges and create innovative solutions.    
    
 ##  
-    
+     
 <div style="display: flex; align-items: left; justify-content: space-between;">
   <div>
     <img align="right" src="https://github.com/CNZSilverPriest/CNZSilverPriest/blob/664416c2ae144891b318e94747bdabaeede03253/lillian.png" width="143" style="margin-left: 20px; border-radius: 10px;">
